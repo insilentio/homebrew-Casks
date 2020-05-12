@@ -7,5 +7,5 @@ cask 'sigma-optimization' do
   name 'SigmaOptimizationPro'
   homepage 'https://www.sigma-global.com/en'
 
-  app 'SIGMA Optimization Pro.app'
+  app 'SIGMAOptimizationPro.app'
 end
