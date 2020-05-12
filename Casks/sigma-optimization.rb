@@ -4,7 +4,7 @@ cask 'sigma-optimization' do
 
   url "https://www.sigma-global.com/common/download/lenses/sigma-optimization-pro/data/SIGMA_Optimization_Pro#{version}.dmg"
   appcast 'https://www.sigma-global.com/en/download/lenses'
-  name 'Sigma Optimization Pro'
+  name 'SigmaOptimizationPro'
   homepage 'https://www.sigma-global.com/en'
 
   app 'SIGMA Optimization Pro.app'
