@@ -1,6 +1,6 @@
 cask 'rawdigger' do
-  version '1.4.0.670'
-  sha256 'c787ee7029ec428c2403665c1a4e1c190d52de02280dea494eeb367336fa7e79'
+  version '1.4.2.691'
+  sha256 '846484f6cbf50c81ed726275b1ad4161010098bcaeeedcd3e70470efac1658f0'
 
   url "https://delivery.rawdigger.com/data/RawDigger-#{version}.dmg"
   appcast 'https://www.rawdigger.com/download'
