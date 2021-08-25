@@ -1,8 +1,8 @@
 cask 'sigma-optimization' do
-  version '1.5.1'
-  sha256 'c9487bb2ca35506e364b8de29d785de09b9400757d912305e068941d5e2613aa'
+  version '1.6.0'
+  sha256 '5bae3490f94967e746db5f202a3347574dc4e06420920adee36a000f06f5931e'
 
-  url "https://www.sigma-global.com/common/download/lenses/sigma-optimization-pro/data/SIGMA_Optimization_Pro151.dmg"
+  url "https://www.sigma-global.com/common/download/lenses/sigma-optimization-pro/data/SIGMA_Optimization_Pro160.dmg"
   appcast 'https://www.sigma-global.com/en/download/lenses'
   name 'SigmaOptimizationPro'
   homepage 'https://www.sigma-global.com/en'
