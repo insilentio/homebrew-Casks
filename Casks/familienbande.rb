@@ -1,6 +1,6 @@
 cask 'familienbande' do
-  version '2020-05-01'
-  sha256 'ec7d25efd1ed8327af901991cbfa0eda180bb57afaf2d37d88b5a7bb631df648'
+  version '2021-09-05'
+  sha256 '5abdd87ef1a3e6f4d8ab6729e8a3b2a093ea47fdcc7d00d2100de55ce38ad69b'
 
   url "https://www.familienbande-genealogie.de/download/FB-Intel64.dmg"
   appcast 'https://www.familienbande-genealogie.de/download'
